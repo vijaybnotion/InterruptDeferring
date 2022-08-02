@@ -2,7 +2,7 @@
 
 ### 1. Fetching the timestamp at the interrupt handler.
 
-![TimeStamp calculation](Images/timestamp.png)
+![TimeStamp calculation](Images/Timestamp.png)
 
 ---
 
